@@ -1,0 +1,16 @@
+'''
+--------------------------------
+LIST OF REQUIREMENTS FOR PROJECT
+--------------------------------
+chromadb
+jupyter
+matplotlib
+numpy
+ollama
+openpyxl
+pandas
+scipy
+seaborn
+sentence-transformers
+a CSV containing Sample_ID, Participant_ID, and Message
+'''

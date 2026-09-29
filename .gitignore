@@ -1,0 +1,21 @@
+# Research / personal data
+*_language_samples.csv
+
+# Chroma vector database
+chroma_db/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
