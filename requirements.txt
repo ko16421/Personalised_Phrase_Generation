@@ -1,7 +1,5 @@
-'''
---------------------------------
-LIST OF REQUIREMENTS FOR PROJECT
---------------------------------
+# Requirements for personalised AAC phrase generation project
+
 chromadb
 jupyter
 matplotlib
@@ -12,5 +10,6 @@ pandas
 scipy
 seaborn
 sentence-transformers
-a CSV containing Sample_ID, Participant_ID, and Message
-'''
+
+# Input data should be a CSV containing:
+# Sample_ID, Participant_ID, and Message
